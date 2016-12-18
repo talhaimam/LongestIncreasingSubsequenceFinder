@@ -1,0 +1,6 @@
+C:\Users\Talha\Documents\Visual Studio 2013\Projects\Longest Increasing Subsequence Finder\Longest Increasing Subsequence Finder\bin\Debug\Longest Increasing Subsequence Finder.exe.config
+C:\Users\Talha\Documents\Visual Studio 2013\Projects\Longest Increasing Subsequence Finder\Longest Increasing Subsequence Finder\obj\Debug\Longest Increasing Subsequence Finder.csprojResolveAssemblyReference.cache
+C:\Users\Talha\Documents\Visual Studio 2013\Projects\Longest Increasing Subsequence Finder\Longest Increasing Subsequence Finder\bin\Debug\Longest Increasing Subsequence Finder.exe
+C:\Users\Talha\Documents\Visual Studio 2013\Projects\Longest Increasing Subsequence Finder\Longest Increasing Subsequence Finder\bin\Debug\Longest Increasing Subsequence Finder.pdb
+C:\Users\Talha\Documents\Visual Studio 2013\Projects\Longest Increasing Subsequence Finder\Longest Increasing Subsequence Finder\obj\Debug\Longest Increasing Subsequence Finder.exe
+C:\Users\Talha\Documents\Visual Studio 2013\Projects\Longest Increasing Subsequence Finder\Longest Increasing Subsequence Finder\obj\Debug\Longest Increasing Subsequence Finder.pdb
